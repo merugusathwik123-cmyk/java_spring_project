@@ -1,2 +1,2 @@
-# java_spring_project
-student management system
+# shekar_java_Spring_project_1
+Student Management System
